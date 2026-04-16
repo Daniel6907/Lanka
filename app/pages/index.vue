@@ -14,7 +14,7 @@
       <div style="border: 1px solid #eee; border-radius: 8px; padding: 24px;">
         <h2>➕ Створити команду</h2>
         <p style="color: #888;">Створи команду та знайди напарників за стеком</p>
-        <NuxtLink to="/teams" style="display: inline-block; margin-top: 16px; background: #2c3e50; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none;">
+        <NuxtLink to="/create-team" style="display: inline-block; margin-top: 16px; background: #2c3e50; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none;">
           Створити →
         </NuxtLink>
       </div>
